@@ -37,7 +37,7 @@ List:
 + 2
 
 Insert a figure:  
-<img src="figs/R.png" alt="drawing" width="500"/>
+<img src="figs/forest.JPG" alt="drawing" width="500"/>
 
 Insert a table:  
 
