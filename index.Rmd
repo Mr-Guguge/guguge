@@ -1,4 +1,4 @@
----
+rmarkdown::render_site()---
 title: "My Website"
 output:
   html_document:
